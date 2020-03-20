@@ -5,7 +5,7 @@ Group Project for CSCi5105: Distributed System
 
 
 
-## Project 1
+## Project 1 PubSub System
 
 
 
