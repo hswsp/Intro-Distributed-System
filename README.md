@@ -19,7 +19,7 @@ We acheived 3 consisteny for this distributed system.
 
 ![System Design](https://github.com/hswsp/Intro_Distributed_System/blob/master/Project2/system.jpg?raw=true)
 
-##sequential consistency
+## sequential consistency
 
 This means that all clients should see the same order of articles on a read from any server even if they were
 posted by concurrent clients to any servers. We use the primary-backup protocol
