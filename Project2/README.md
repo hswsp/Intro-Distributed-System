@@ -20,7 +20,4 @@ or read operation.
 
 For this, suppose a client C posts an article or reply to a specific server S1. Later, if the client C connects
 to a different server S2 and does a read or choose, they are guaranteed to see the prior updates.
-We use the local-write protocol.ribe() and Publish()
-- [ ] Algorithm(Methods) to deal with Articles
-- [ ] Client Functions: Ping (Auto detect connection) and Leave()
-- [ ] Error State when server down (NOT OPTIONAL?)
+

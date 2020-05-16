@@ -36,7 +36,7 @@ We use the local-write protocol.
 
 ## Project 3 Simple xFS
 
-In this project, we implemented a simple “serverless” file system based on the classic xFS paper[1] in which
+In this project, we implemented a simple “serverless” file system based on the classic xFS paper [1] in which
 peer nodes can share their files directly with other peers. 
 
 Using this system, a user can store files in their local storage (a specific directory up to you, e.g. ~you/5105/share/machID) to share with other users. The
